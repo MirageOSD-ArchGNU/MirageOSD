@@ -1,4 +1,4 @@
-// kernel.c - MirageOSD (All Commands Fixed & Fully Operational)
+// kernel.c - MirageOSD (Dumb Hummingbird)
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>
